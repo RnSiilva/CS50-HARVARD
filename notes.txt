@@ -1,0 +1,19 @@
+Comando para checar se o programa está funcionando corretamente:
+check50 cs50/problems/2021/x/"nome do arquivo(sem .c)"
+ex: check50 cs50/problems/2021/x/hello
+
+Comando para checar se o estilo do código está bom:
+style50 "nome do arquivo .c"
+ex: style50 hello.c
+
+Comando que ajuda nos erros de compilacao:
+help50 make "nome do arquivo sem .c"
+
+Mudar nome do ficheiro ou diretorio:
+mv "nome do arquivo a ser mudado" "nome desejado"
+ex: mv hello.c ola.c
+
+Mover um ficheiro para um diretorio, ou um diretorio para outro diretorio:
+mv "nome no ficheiro/dir a ser movido" "dir desejado"
+ex: mv hello.c scratch00
+

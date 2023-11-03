@@ -1,0 +1,4 @@
+Inicio
+Recebe o valor da altura desejado pelo usuário, e armazena em n;
+Filtra para que seja exigido um numero inteiro de 1 a 8;
+Cria uma variavel i para suporte, fazendo com que seja impresso conforme a altura passada, com os devidos espaços e quebras-de-linha.

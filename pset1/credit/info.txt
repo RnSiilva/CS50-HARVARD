@@ -1,0 +1,7 @@
+4003600000000014
+
+14 12 10 8 6 4 2 0
+
+American Express = 15 > 34 ou 37
+MasterCard = 16 > 51, 52, 53, ou 55
+Visa = 13 e 16 > 4
